@@ -1,10 +1,9 @@
 #biokinesiology
 ==============
-On October 22nd, I guest lectured a graduate biokinesiology course (BKN 504), at the University of Southern California's Kaprielian Hall 165.
+On October 22nd 2015 and August 31, 2015:
+Guest lecture for a graduate biokinesiology course (BKN 504), at the University of Southern California
 
-[Francisco Valero-Cuevas' BKN504 Course information](http://bbdl.usc.edu/BMEBKN504.php)
-
-###This repository holds two exercises in numerical biomechanic analysis, implemented in open-source softwares.
+###This repository holds two exercises in numerical biomechanic analysis, implemented in open-source software.
 
 ###[Class Agenda](https://docs.google.com/document/d/1wlgy7I2XnatGq-l5_J7be7nE27JxOycmxZ5OxU8pGjQ/edit?usp=sharing)
 
