@@ -1,6 +1,6 @@
 #biokinesiology
 ==============
-On October 22nd 2015 and August 31, 2015:
+On October 22nd 2015, August 31, 2015, and August 31, 2016:
 Guest lecture for a graduate biokinesiology course (BKN 504), at the University of Southern California
 
 ###This repository holds two exercises in numerical biomechanic analysis, implemented in open-source software.
